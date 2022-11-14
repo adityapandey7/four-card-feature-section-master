@@ -1,0 +1,126 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-align: center;
+background-color: Very Light Gray: hsl(0, 0%, 98%);
+}
+.first-h1{
+  font-weight: lighter;
+  font-size: 30px;
+  margin-top: 70px;
+  line-height: 0.4;
+}
+.second-h1{
+  line-height: 0.8;
+}
+.first-p{
+  margin: 0 550px 0 550px;
+  font-size: 15px;
+}
+.first{
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border-radius: 7px;
+  border-style: solid none none none;
+  border-width: 2px;
+  border-color: hsl(180, 62%, 55%);
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-160%,10%);
+  box-shadow: 0px 2px 6px;
+  background-image: url(images/icon-supervisor.svg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.first h3{
+  margin: 20px 15px 0 15px;
+}
+.first p{
+  margin: 10px 15px 0 15px;
+  font-size: 15px;
+}
+.second{
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border-radius: 7px;
+  border-style: solid none none none;
+  border-width: 2px;
+  border-color: red;
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  box-shadow: 0px 2px 6px;
+  background-image: url(images/icon-team-builder.svg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.second h3{
+  margin: 20px 15px 0 15px;
+}
+.second p{
+  margin: 10px 15px 0 15px;
+  font-size: 15px;
+}
+.third{
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border-radius: 7px;
+  border-style: solid none none none;
+  border-width: 2px;
+  border-color: hsl(34, 97%, 64%);
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,65%);
+  box-shadow: 0px 2px 6px;
+  background-image: url(images/icon-karma.svg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.third h3{
+  margin: 20px 15px 0 15px;
+}
+.third p{
+  margin: 10px 15px 0 15px;
+  font-size: 15px;
+}
+.fourth{
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border-radius: 7px;
+  border-style: solid none none none;
+  border-width: 2px;
+  border-color: hsl(212, 86%, 64%);
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(60%,10%);
+  box-shadow: 0px 2px 6px;
+  background-image: url(images/icon-calculator.svg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.fourth h3{
+  margin: 20px 15px 0 15px;
+}
+.fourth p{
+  margin: 10px 15px 0 15px;
+  font-size: 15px;
+}
